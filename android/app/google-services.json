@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640802419213",
+    "project_id": "live-tracking-ce452",
+    "storage_bucket": "live-tracking-ce452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640802419213:android:0a2351a05da5ce27535b44",
+        "android_client_info": {
+          "package_name": "com.graduation_project.live_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640802419213-33ghtt2ampa4p92koullp40jdk5hnh8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graduation_project.live_tracking",
+            "certificate_hash": "b8c0a424e289b91938afa87d7ea56907c4aff7b3"
+          }
+        },
+        {
+          "client_id": "640802419213-tjpeep9udbt4uebgp45k5h9b0mecrq3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXgJ_r42r0Bo_flcdgV19ya15w46zSCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640802419213-tjpeep9udbt4uebgp45k5h9b0mecrq3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
