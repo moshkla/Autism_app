@@ -1,4 +1,4 @@
-package com.graduation_project.live_tracking
+package com.graduation_project.Autism
 
 import io.flutter.embedding.android.FlutterActivity
 

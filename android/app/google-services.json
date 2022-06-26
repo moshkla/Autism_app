@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:640802419213:android:0a2351a05da5ce27535b44",
         "android_client_info": {
-          "package_name": "com.graduation_project.live_tracking"
+          "package_name": "com.graduation_project.Autism"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "640802419213-33ghtt2ampa4p92koullp40jdk5hnh8f.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.graduation_project.live_tracking",
+            "package_name": "com.graduation_project.Autism",
             "certificate_hash": "b8c0a424e289b91938afa87d7ea56907c4aff7b3"
           }
         },
